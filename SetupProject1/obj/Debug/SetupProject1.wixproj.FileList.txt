@@ -1,0 +1,6 @@
+obj\Debug\Product.wixobj
+obj\Debug\SetupProject1.wixproj.BindContentsFileListnull.txt
+obj\Debug\SetupProject1.wixproj.BindOutputsFileListnull.txt
+obj\Debug\SetupProject1.wixproj.BindBuiltOutputsFileListnull.txt
+D:\Office stuff\SetupProject1\SetupProject1\bin\Debug\Connector-installer.msi
+D:\Office stuff\SetupProject1\SetupProject1\bin\Debug\Connector-installer.wixpdb
